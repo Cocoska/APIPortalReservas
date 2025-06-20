@@ -25,21 +25,24 @@ La solución de la API (AviaturHoteles.sln) se organiza en varios proyectos para
   - Se encarga de la orquestación entre la API, la base de datos y los proveedores externos.
 
 2. Prerrequisitos
-Para ejecutar este proyecto, necesitas tener instalado lo siguiente:
+   
+  Para ejecutar este proyecto, necesitas tener instalado lo siguiente:
 
-* SDK de .NET 8.0.
-* SQL Server: Una instancia de SQL Server .
-* SQL Server Management Studio.
-* Visual Studio 2022  o Visual Studio Code).
+  * SDK de .NET 8.0.
+  * SQL Server: Una instancia de SQL Server .
+  * SQL Server Management Studio.
+  * Visual Studio 2022  o Visual Studio Code).
 
 3. Configuración y Ejecución
-Sigue estos pasos para configurar y ejecutar la API:
+   
+  Sigue estos pasos para configurar y ejecutar la API:
 
-* Clonar el Repositorio:
-    git clone <URL_DEL_REPOSITORIO_API>
+  * Clonar el Repositorio:
+    
+    git clone https://github.com/Cocoska/APIPortalReservas
     cd AviaturHoteles
     
-* Configurar la Base de Datos:
+  * Configurar la Base de Datos:
 
   * Abre tu SSMS/Azure Data Studio.
   * Crea una nueva base de datos llamada AviaturReservasDB.
