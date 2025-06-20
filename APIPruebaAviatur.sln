@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIPruebaAviatur", "APIPruebaAviatur\APIPruebaAviatur.csproj", "{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C29280D-2BE5-4FAC-B591-38D38FDAEFFD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|c:\\users\\jcmc1\\source\\repos\\apipruebaaviatur\\apipruebaaviatur\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|solutionrelative:apipruebaaviatur\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|c:\\users\\jcmc1\\source\\repos\\apipruebaaviatur\\apipruebaaviatur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|solutionrelative:apipruebaaviatur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|c:\\users\\jcmc1\\source\\repos\\apipruebaaviatur\\apipruebaaviatur\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|solutionrelative:apipruebaaviatur\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|c:\\users\\jcmc1\\source\\repos\\apipruebaaviatur\\apipruebaaviatur\\models\\reservahotelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|solutionrelative:apipruebaaviatur\\models\\reservahotelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|c:\\users\\jcmc1\\source\\repos\\apipruebaaviatur\\apipruebaaviatur\\models\\reservahotelresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|solutionrelative:apipruebaaviatur\\models\\reservahotelresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|c:\\users\\jcmc1\\source\\repos\\apipruebaaviatur\\apipruebaaviatur\\services\\ireservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|solutionrelative:apipruebaaviatur\\services\\ireservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|c:\\users\\jcmc1\\source\\repos\\apipruebaaviatur\\apipruebaaviatur\\models\\reservareporteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|solutionrelative:apipruebaaviatur\\models\\reservareporteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|c:\\users\\jcmc1\\source\\repos\\apipruebaaviatur\\apipruebaaviatur\\controllers\\hotelescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|solutionrelative:apipruebaaviatur\\controllers\\hotelescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|c:\\users\\jcmc1\\source\\repos\\apipruebaaviatur\\apipruebaaviatur\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB00B37-2EF7-41A5-9078-2903ED2EA74B}|APIPruebaAviatur\\APIPruebaAviatur.csproj|solutionrelative:apipruebaaviatur\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservaReporteResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Models\\ReservaReporteResponse.cs",
+              "RelativeDocumentMoniker": "APIPruebaAviatur\\Models\\ReservaReporteResponse.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Models\\ReservaReporteResponse.cs",
+              "RelativeToolTip": "APIPruebaAviatur\\Models\\ReservaReporteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:55:31.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Services\\IReservaService.cs",
+              "RelativeDocumentMoniker": "APIPruebaAviatur\\Services\\IReservaService.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Services\\IReservaService.cs",
+              "RelativeToolTip": "APIPruebaAviatur\\Services\\IReservaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:51:57.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservaHotelResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Models\\ReservaHotelResponse.cs",
+              "RelativeDocumentMoniker": "APIPruebaAviatur\\Models\\ReservaHotelResponse.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Models\\ReservaHotelResponse.cs",
+              "RelativeToolTip": "APIPruebaAviatur\\Models\\ReservaHotelResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:22:58.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservaHotelRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Models\\ReservaHotelRequest.cs",
+              "RelativeDocumentMoniker": "APIPruebaAviatur\\Models\\ReservaHotelRequest.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Models\\ReservaHotelRequest.cs",
+              "RelativeToolTip": "APIPruebaAviatur\\Models\\ReservaHotelRequest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:37:21.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\appsettings.json",
+              "RelativeDocumentMoniker": "APIPruebaAviatur\\appsettings.json",
+              "ToolTip": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\appsettings.json",
+              "RelativeToolTip": "APIPruebaAviatur\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T20:57:19.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Program.cs",
+              "RelativeDocumentMoniker": "APIPruebaAviatur\\Program.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Program.cs",
+              "RelativeToolTip": "APIPruebaAviatur\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:58:34.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "APIPruebaAviatur\\Services\\HotelService.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Services\\HotelService.cs",
+              "RelativeToolTip": "APIPruebaAviatur\\Services\\HotelService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAABIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:17:57.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelesController.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Controllers\\HotelesController.cs",
+              "RelativeDocumentMoniker": "APIPruebaAviatur\\Controllers\\HotelesController.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Controllers\\HotelesController.cs",
+              "RelativeToolTip": "APIPruebaAviatur\\Controllers\\HotelesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:04:48.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Services\\ReservaService.cs",
+              "RelativeDocumentMoniker": "APIPruebaAviatur\\Services\\ReservaService.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\source\\repos\\APIPruebaAviatur\\APIPruebaAviatur\\Services\\ReservaService.cs",
+              "RelativeToolTip": "APIPruebaAviatur\\Services\\ReservaService.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwIgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:33:00.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

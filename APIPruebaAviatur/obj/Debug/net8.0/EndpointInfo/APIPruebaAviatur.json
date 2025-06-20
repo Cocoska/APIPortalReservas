@@ -1,0 +1,220 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "APIPruebaAviatur",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Hoteles/buscar": {
+      "post": {
+        "tags": [
+          "Hoteles"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BusquedaHotelRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BusquedaHotelRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/BusquedaHotelRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Hoteles/reserva": {
+      "post": {
+        "tags": [
+          "Hoteles"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ReservaHotelRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ReservaHotelRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ReservaHotelRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Hoteles/reporteReservas": {
+      "get": {
+        "tags": [
+          "Hoteles"
+        ],
+        "parameters": [
+          {
+            "name": "fechaDesde",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "fechaHasta",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "proveedorID",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "empresaID",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "usuarioID",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "ciudadHotel",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "estadoReserva",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BusquedaHotelRequest": {
+        "type": "object",
+        "properties": {
+          "ciudad": {
+            "type": "string",
+            "nullable": true
+          },
+          "checkIn": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "checkOut": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "huespedes": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ReservaHotelRequest": {
+        "type": "object",
+        "properties": {
+          "emailCliente": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreCliente": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreProveedor": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreHotel": {
+            "type": "string",
+            "nullable": true
+          },
+          "ciudadHotel": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaCheckIn": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "fechaCheckOut": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "precioTotal": {
+            "type": "number",
+            "format": "double"
+          },
+          "moneda": {
+            "type": "string",
+            "nullable": true
+          },
+          "estadoReserva": {
+            "type": "string",
+            "nullable": true
+          },
+          "busquedaId": {
+            "type": "integer",
+            "format": "int64",
+            "nullable": true
+          },
+          "codigoReservaProveedor": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
